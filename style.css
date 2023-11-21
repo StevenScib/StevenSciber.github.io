@@ -1,11 +1,11 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:sans-serif;
     margin: 20px;
-    background-color: #f4f4f4;
+    background-color: #fffafa;
   }
   
   h1 {
-    color: #333;
+    color: #181717;
     text-align: center;
   }
   
@@ -15,12 +15,7 @@ body {
     padding: 10px;
     margin-top: 20px;
     cursor: pointer;
-    border: none;
     border-radius: 5px;
     font-size: 16px;
-    transition: background-color 0.3s ease;
   }
   
-  button:hover {
-    background-color: #0056b3;
-  }
